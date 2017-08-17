@@ -4,7 +4,8 @@
 Requirements
 1. Provide working source code that will :
 
-a. For a given stock,
+a. For a given stock
+
 i. Given a market price as input, calculate the dividend yield
 ii. Given a market price as input, calculate the P/E Ratio
 iii. Record a trade, with timestamp, quantity of shares, buy or sell indicator and
