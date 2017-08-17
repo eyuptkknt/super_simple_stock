@@ -11,6 +11,9 @@ trade price
 iv. Calculate Volume Weighted Stock Price based on trades in past 15 minutes
 b. Calculate the GBCE All Share Index using the geometric mean of prices for all stocks
 
+# formulas is uploaded as formulas.png
+you can find and useformulas in formulas.png file to do.
+
 
 
 # small set of data as dictionary
@@ -20,3 +23,5 @@ data = {'TEA': {'Type': 'Common', 'Last_Dividend': 0, 'Fixed_Dividend': None, 'P
         'ALE': {'Type': 'Common', 'Last_Dividend': 23, 'Fixed_Dividend': None, 'Par_Value': 60},
         'GIN': {'Type': 'Preferred', 'Last_Dividend': 8, 'Fixed_Dividend': 0.02, 'Par_Value': 100},
         'JOE': {'Type': 'Common', 'Last_Dividend': 13, 'Fixed_Dividend': None, 'Par_Value': 250}}
+       
+  
